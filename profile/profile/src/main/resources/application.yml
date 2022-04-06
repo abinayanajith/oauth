@@ -1,0 +1,8 @@
+#server:
+ # port: 3489
+spring:
+  profiles:
+    active: prod
+
+  application:
+    name: profile
